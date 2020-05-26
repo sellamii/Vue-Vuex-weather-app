@@ -1,7 +1,7 @@
 <template>
     <div class="footer">
       <button class="ui basic button">
-        <a href="https://github.com/sellamii"><i class="github icon black"></i>Repo on Github</a>
+        <a href="https://github.com/sellamii/Vue-Vuex-weather-app"><i class="github icon black"></i>Repo on Github</a>
       </button>
 
       <button class="ui basic button"> 
