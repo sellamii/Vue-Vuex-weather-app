@@ -17,5 +17,8 @@ To develop:
 ```bash
 $ npm run serve
 ```
+next step :
+
+Internationalization (translate) with i18n
 
 
